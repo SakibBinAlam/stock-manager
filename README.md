@@ -5,3 +5,7 @@ users to check real stocks' actual prices and via this app they can buy and sell
 
 Project description: https://docs.cs50.net/2019/x/psets/8/finance/finance.html
 
+
+# Demo
+
+<img src="demo.PNG" width="360" height="640">
