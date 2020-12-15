@@ -8,4 +8,4 @@ Project description: https://docs.cs50.net/2019/x/psets/8/finance/finance.html
 
 # Demo
 
-<img src="demo.PNG" width="260" height="240">
+<img src="demo.PNG" width="200" height="140">
